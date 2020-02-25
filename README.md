@@ -1,5 +1,5 @@
 # crypto-react-ANZ
-reactjs assignment for ANZ
+reactjs app for ANZ
 
 The aim of these exercises is to develop a react application where we can display the data of the top 5 cryptocurrency in the market. This package contains some code that can be used as a starting point to develop the application. You are expected to enhance this starter package to produce a working application. To develop the application, you'll need to install nodejs which can be downloaded from https://nodejs.org/en/download/. Please send the completed solution in a zip file including all the solution files and folders without the node_modules folder.
 
